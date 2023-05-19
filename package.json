@@ -1,0 +1,11 @@
+{
+  "name": "captcha-font-generate",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "generate": "node ./generate.js"
+  },
+  "devDependencies": {
+    "jimp": "^0.22.8"
+  }
+}
